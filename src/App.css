@@ -12,8 +12,8 @@ body {
 
   font-family: Inter, system-ui, Avenir, Helvetica, Arial, sans-serif;
 
-  color: rgba(255, 255, 255, 0.87);
-  background-color: #242424;
+  color: #242424;
+  background-color: rgba(227, 238, 254, 0.87);
 
   font-synthesis: none;
   text-rendering: optimizeLegibility;
@@ -24,12 +24,12 @@ body {
 
 a,
 a:visited {
-  color: #00d8ff;
+  color: rgb(255, 255, 255);
   text-decoration: none;
 }
 
 nav {
-  background-color: navy;
+  background-color: #066385;
   display: flex;
 
 }
@@ -40,7 +40,8 @@ nav > ul {
   margin: 0;
   padding: 16px 32px;
   list-style: none;
-
+  font-weight: 500;
+  color: rgb(255, 255, 255);
 }
 
 
