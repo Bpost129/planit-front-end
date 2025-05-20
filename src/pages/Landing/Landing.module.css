@@ -3,3 +3,9 @@
   align-items: center;
   flex-direction: column;
 }
+
+#landing_container {
+  border: 2px solid black;
+  border-radius: 12px;
+  padding: 12px;
+}
